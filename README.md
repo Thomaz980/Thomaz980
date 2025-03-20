@@ -10,11 +10,11 @@
 
 ###
 
-<h3 align="left">🔥 Minhas Estatísticas :</h3>
+<h1 align="center">Iaew Pessoal 👋</h1>
 
 ###
 
-<h1 align="center">Iaew Pessoal 👋</h1>
+<h3 align="left">🔥 Minhas Estatísticas :</h3>
 
 ###
 
