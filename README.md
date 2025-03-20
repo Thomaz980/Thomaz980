@@ -1,15 +1,3 @@
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Thomaz980.Thomaz980&"  />
-</div>
-
-###
-
-<h1 align="center">Iaew Pessoal 👋</h1>
-
-###
-
 <h3 align="left">🔥 Minhas Estatísticas :</h3>
 
 ###
