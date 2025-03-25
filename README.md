@@ -1,4 +1,3 @@
-###
 
 <h3 align="left">👩‍💻  Sobre Mim:</h3>
 
