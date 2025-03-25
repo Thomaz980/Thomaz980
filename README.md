@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Graduado como Técnico em Administração pelo IFPE – Campus Paulista, trabalhei por dois anos como estagiário na Divisão de Pesquisa e Extensão do IFPE – Campus Igarassu, prestando suporte a iniciativas acadêmicas e institucionais, tanto internas quanto externas.<br><br>Atualmente cursando Tecnologia em Sistemas para Internet, tenho experiência prática em desenvolvimento web e mobile, utilizando linguagens como PHP, TypeScript, Java e C#. Meus projetos envolvem frameworks como Laravel, React, Vue.js, Next.js e .NET/Asp.NET.<br><br>Apaixonado por tecnologia e inovação, desenvolvo iniciativas como a criação da Sprintech e projetos como o desenvolvimento do aplicativo Capacita Digital, resultado do projeto Inclusão Digital da Pessoa Idosa para a Cidadania, voltado para auxiliar jovens e adultos no processo de alfabetização.</p>
+<p align="left">Graduado como Técnico em Administração pelo IFPE – Campus Paulista, trabalhei por dois anos como estagiário na Divisão de Pesquisa e Extensão do IFPE – Campus Igarassu, prestando suporte a iniciativas acadêmicas e institucionais, tanto internas quanto externas.<br><br>Atualmente cursando Tecnologia em Sistemas para Internet, tenho experiência prática em desenvolvimento web e mobile, utilizando linguagens como PHP, TypeScript, Java e C#. Meus projetos envolvem frameworks como Laravel, React, Vue.js, Next.js e .NET/Asp.NET.<br><br>Apaixonado por tecnologia e inovação, desenvolvo iniciativas como a criação da Sprintech e projetos como o desenvolvimento do aplicativo Capacita Digital, resultado do projeto Inclusão Digital de Idosos como Exercicio da Cidadania, voltado para auxiliar jovens e adultos no processo de alfabetização.</p>
 
 ###
 
